@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- Traducciones para CreateProductPage -->
+<string name="app_name">Lista de Compras</string>
+<string name="welcome_message">Bienvenido a Lista de Compras</string>
+<string name="add_item">Añadir artículo</string>
+<string name="remove_item">Eliminar artículo</string>
+<string name="edit_item">Editar artículo</string>
+<string name="item_name">Nombre del artículo</string>
+<string name="quantity">Cantidad</string>
+<string name="confirm">Confirmar</string>
+<string name="cancel">Cancelar</string>
+<string name="error_empty_name">El nombre del artículo no puede estar vacío</string>
+<string name="create_product_title">Crear Producto</string>
+<string name="select_image">Haz clic para seleccionar una imagen</string>
+<string name="back">Volver</string>
+<string name="create">Crear</string>
+<!-- Traducciones para EditProductPage -->
+<string name="save">Guardar</string>
+<string name="edit_product_title">Editar Producto</string>
+<string name="image_placeholder_description">Imagen por defecto</string>
+<string name="selected_image_description">Imagen seleccionada</string>
+<string name="update">Actualizar</string>
+<string name="error_update_product">Error al actualizar el producto.</string>
+<string name="error_empty_product_name">El nombre del producto no puede estar vacío.</string>
+<string name="click_to_select_image">Haz clic para seleccionar una imagen</string>
+<!-- Traducciones para MainPage -->
+<string name="no_items_message">No hay productos que mostrar</string>
+<string name="empty_shopping_list_action">Añadir producto</string>
+<string name="item_deleted_message">Producto eliminado</string>
+<string name="item_purchased_message">Producto marcado como comprado</string>
+<!-- Nuevas traducciones -->
+<string name="product_added_message">Producto añadido a la lista</string>
+<string name="error_empty_quantity">La cantidad no puede estar vacía</string>
+<string name="error_invalid_quantity">Por favor, introduce una cantidad válida</string>
+</resources>
